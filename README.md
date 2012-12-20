@@ -1,4 +1,4 @@
 wpsetup
 =======
 
-lternative and automatic install script for custom Wordpress Setup
+alternative and automatic install script for custom Wordpress Setup
